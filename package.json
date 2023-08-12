@@ -1,0 +1,23 @@
+{
+  "name": "react-async-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinavi/react-async-list.git"
+  },
+  "author": "kinavi",
+  "license": "https://github.com/kinavi/react-async-list/blob/main/LICENSE",
+  "bugs": {
+    "url": "https://github.com/kinavi/react-async-list/issues"
+  },
+  "homepage": "https://github.com/kinavi/react-async-list#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^18.2.0"
+  }
+}
