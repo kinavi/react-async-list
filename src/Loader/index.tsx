@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import {
   LoaderCircle,
   LoaderItem4,
@@ -15,10 +15,9 @@ import {
   LoaderContainer,
 } from './styled';
 
-export { Loader as ChatLoader } from './ChatLoader'
 type LoaderPropsType = {
-    className?: string
-}
+  className?: string;
+};
 export const Loader = ({ className }: LoaderPropsType) => (
   <LoaderContainer className={className}>
     <LoaderCircle />

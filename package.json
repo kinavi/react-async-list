@@ -1,5 +1,5 @@
 {
-  "name": "react-async-list",
+  "name": "@kinavi/react-async-list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,5 +22,5 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  },
+  }
 }
